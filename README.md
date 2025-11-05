@@ -123,6 +123,7 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [cipher](https://github.com/campfirein/cipher#readme) - Memory layer for coding agents.
 - [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service#readme) - Universal MCP memory with semantic search.
 - [core](https://github.com/RedPlanetHQ/core#readme) - Unified, shareable memory layer.
+- [agent-trace-ops](https://github.com/peerbot-ai/agent-trace-ops) - Claude Code plugin that flags repetitive tool calls in chat traces and auto-suggests refactors + helper scripts—cutting tokens and latency.
 
 ### Remote Control & Communication
 - [Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote#readme) - Control via email/Discord/Telegram.
