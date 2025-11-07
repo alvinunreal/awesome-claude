@@ -73,6 +73,7 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents#readme) - Specialized AI subagents for full-stack.
 - [awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents#readme) - Curated list of sub-agents.
 - [claude-code-unified-agents](https://github.com/stretchcloud/claude-code-unified-agents#readme) - Unified agent collection (Shell).
+- [claude-mountaineering-skills](https://github.com/dreamiurg/claude-mountaineering-skills#readme) - Automates mountain route research for North American peaks, aggregating data from 10+ specialized mountaineering sources into comprehensive route beta reports.
 
 ### Development & Code Tools
 - [serena](https://github.com/oraios/serena#readme) - Semantic retrieval and editing capabilities.
