@@ -8,16 +8,16 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 
 ## Contents
 
-- [Official Anthropic Resources](#official-anthropic-resources)
-- [Awesome GitHub Repos Related to Claude](#awesome-github-repos-related-to-claude)
-- [Educational Resources & Tutorials](#educational-resources--tutorials)
-- [API Clients & SDKs](#api-clients--sdks)
-- [Project Management & Orchestration](#project-management--orchestration)
-- [IDE Extensions & Plugins](#ide-extensions--plugins)
-- [Applications & User Interfaces](#applications--user-interfaces)
-- [Community](#community)
+- [🏢 Official Anthropic Resources](#-official-anthropic-resources)
+- [⭐ Awesome GitHub Repos Related to Claude](#-awesome-github-repos-related-to-claude)
+- [📚 Educational Resources & Tutorials](#-educational-resources--tutorials)
+- [🔌 API Clients & SDKs](#-api-clients--sdks)
+- [🎯 Project Management & Orchestration](#-project-management--orchestration)
+- [🧩 IDE Extensions & Plugins](#-ide-extensions--plugins)
+- [💻 Applications & User Interfaces](#-applications--user-interfaces)
+- [👥 Community](#-community)
 
-## Official Anthropic Resources
+## 🏢 Official Anthropic Resources
 
 **The authoritative resources directly from Claude's creators**
 
@@ -28,7 +28,7 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [Claude Code](https://www.anthropic.com/claude-code) - Official page for Claude Code, an agentic coding tool for terminals and IDEs.
 - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Tips and tricks for using Claude Code across various codebases, languages, and environments.
 
-## Awesome GitHub Repos Related to Claude
+## ⭐ Awesome GitHub Repos Related to Claude
 
 **Community-curated collections of Claude resources, tools, and examples**
 
@@ -40,20 +40,20 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents#readme) - 100+ specialized AI agents for full-stack development maintained by the community.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers#readme) - Curated list of Model Context Protocol (MCP) servers for extending Claude's capabilities with external data sources, APIs, and tools.
 
-## Educational Resources & Tutorials
+## 📚 Educational Resources & Tutorials
 
-### Official Anthropic Courses
+### 🎓 Official Anthropic Courses
 
 - [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) - Learn to collaborate with AI systems effectively, efficiently, ethically, and safely.
 - [Claude with the Anthropic API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) - This comprehensive course covers the full spectrum of working with Anthropic models using the Anthropic API.
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Integrate Claude Code into your development workflow.
 - [Introduction to Model Context Protocol](http://anthropic.skilljar.com/introduction-to-model-context-protocol) - Learn to build Model Context Protocol servers and clients from scratch using Python. Master MCP's three core primitives—tools, resources, and prompts—to connect Claude with external services.
 
-### Community Guides & Tutorials
+### 📖 Community Guides & Tutorials
 
 - [Claude Code Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know#readme) - Ultimate all-in-one guide to mastering Claude Code. Covers setup, prompt engineering, commands, hooks, workflows, automation, integrations, MCP servers, tools, and the BMAD method with step-by-step tutorials and real-world examples.
 
-## API Clients & SDKs
+## 🔌 API Clients & SDKs
 
 **Official Anthropic client libraries for working with Claude's API**
 
@@ -63,7 +63,7 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go#readme) - Official Go client library for the Anthropic API. Idiomatic Go design with context support and comprehensive error handling.
 - [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby#readme) - Official Ruby client library for the Anthropic API. Clean Ruby interface with comprehensive documentation and examples.
 
-## Project Management & Orchestration
+## 🎯 Project Management & Orchestration
 
 **Tools for managing AI projects, orchestrating workflows, and coordinating multi-agent systems**
 
@@ -73,26 +73,26 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [zcf](https://github.com/UfoMiao/zcf#readme) - Zero-Config Code Flow for Claude Code & Codex, simplifying workflow automation.
 - [tdd-guard](https://github.com/nizos/tdd-guard#readme) - Automated TDD enforcement for Claude Code, ensuring test-driven development practices.
 
-## IDE Extensions & Plugins
+## 🧩 IDE Extensions & Plugins
 
-### VS Code Extensions
+### 🎨 VS Code Extensions
 
 - [Claude Code Chat](https://github.com/andrepimenta/claude-code-chat#readme) - Beautiful native chat interface for Claude Code within VS Code with conversation history and MCP support.
 
 - [Claude VSCode Theme](https://marketplace.visualstudio.com/items?itemName=AlvinUnreal.claude-vscode-theme) - Thoughtful dark theme collection with classic and italic variants. Inspired by Claude AI with carefully balanced contrast and warm syntax colors for long coding sessions.
 
-### Browser Extensions
+### 🌐 Browser Extensions
 - [Claude Usage Tracker](https://chromewebstore.google.com/detail/claude-usage-tracker/knemcdpkggnbhpoaaagmjiigenifejfo) - Chrome extension for tracking Claude AI usage and performance metrics.
 
 - [Claude Helper](https://chromewebstore.google.com/detail/claude-helper/nfgojpifghedgeflgnliekadidggnnih/reviews) - Allows folder uploads to Claude projects with advanced file handling. Adds minimap for chat navigation and quick conversation access.
 
-## Applications & User Interfaces
+## 💻 Applications & User Interfaces
 
-### Desktop Applications
+### 🖥️ Desktop Applications
 - [Claude Desktop](https://claude.ai/download) - Official Claude desktop app for macOS and Windows.
 - [Claude Desktop Debian](https://github.com/aaddrick/claude-desktop-debian#readme) - Unofficial Claude desktop app for Debian/Linux.
 
-## Community
+## 👥 Community
 
 **Join the Claude community to share knowledge, get help, and stay updated**
 
