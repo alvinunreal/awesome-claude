@@ -67,6 +67,7 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 
 **Tools for managing AI projects, orchestrating workflows, and coordinating multi-agent systems**
 
+- [agentic-sprint](https://github.com/damienlaine/agentic-sprint#readme) - Spec-driven, self-iterative multi-agent framework that turns Claude Code into an autonomous development team. Project Architect coordinates specialized agents (Python, Next.js, CI/CD, QA, UI Testing) through convergent sprints where specs shrink and errors get erased with each iteration.
 - [claude-flow](https://github.com/ruvnet/claude-flow#readme) - Leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol.
 - [ccpm](https://github.com/automazeio/ccpm#readme) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [claude-code-templates](https://github.com/davila7/claude-code-templates#readme) - CLI tool for configuring and monitoring Claude Code projects with templates.
