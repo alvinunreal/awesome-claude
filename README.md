@@ -101,3 +101,5 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [Anthropic AI Facebook Group](https://www.facebook.com/groups/anthropicai/) - Facebook group for Anthropic AI and Claude discussions.
 
 **[⬆ Back to Contents](#contents)**
+
+- [AgentsKB](https://agentskb.com) - Upgrade your AI with researched answers. We did the research so your AI gets it right the first time.
