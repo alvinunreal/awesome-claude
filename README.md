@@ -72,6 +72,8 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [claude-code-templates](https://github.com/davila7/claude-code-templates#readme) - CLI tool for configuring and monitoring Claude Code projects with templates.
 - [zcf](https://github.com/UfoMiao/zcf#readme) - Zero-Config Code Flow for Claude Code & Codex, simplifying workflow automation.
 - [tdd-guard](https://github.com/nizos/tdd-guard#readme) - Automated TDD enforcement for Claude Code, ensuring test-driven development practices.
+- [Lynkr](https://github.com/vishalveerareddy123/Lynkr) – Claude Code-compatible proxy for Databricks and Azure Anthropic, with MCP orchestration, repo intelligence, git automation, and prompt caching.
+
 
 ## 🧩 IDE Extensions & Plugins
 
